@@ -15,4 +15,4 @@ ___
 # 👾  What I am interested in learning at some point
 
 # 🔍 Where you could find me
-### [![Telegram Badge](https://img.shields.io/badge/n0tseri0us-blue?logo=telegram)](https://t.me/n0tseri0us)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruslan-rasskazov-842074b6/) [![Static Badge](https://img.shields.io/badge/send_email-gray?logo=gmail)](mailto:paccka3obpyc@gmail.com)
+## [![Telegram Badge](https://img.shields.io/badge/n0tseri0us-blue?logo=telegram)](https://t.me/n0tseri0us)  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruslan-rasskazov-842074b6/) [![Static Badge](https://img.shields.io/badge/send_email-gray?logo=gmail)](mailto:paccka3obpyc@gmail.com)

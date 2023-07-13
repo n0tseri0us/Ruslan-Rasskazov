@@ -4,7 +4,7 @@
    
 ### I'm living in Chisinau, Moldova right now, but I'm ready to relocate anytime anywhere in Europe ✈️
 
-### And this is my GitHub page, here is my portfolio and previous projects. Also you could find my contacts in the bottom of this page.
+### And this is my GitHub page, here is my portfolio and previous projects. Also you could find my contacts in the bottom of this page 🤙
 
 ___
 

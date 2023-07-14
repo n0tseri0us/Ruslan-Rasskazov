@@ -8,7 +8,7 @@
 
 ___
 # 👨‍💼 Projects 
-## SkyPro
+## [SkyPro](https://github.com/n0tseri0us/Ruslan-Rasskazov/tree/main/Skypro)
 
    
 # 🛠 Technologies and tools
